@@ -4,7 +4,7 @@
 
 A marketing website for **IVK Media**, a San Jose studio that builds websites, Google review stands and Instagram content for local businesses. Built as a single, dependency-free HTML file with plain CSS and vanilla JavaScript, with no frameworks.
 
-![Desktop hero](screenshots/desktop-hero.png)
+![Desktop hero](desktop-hero.png)
 
 ## Highlights
 
@@ -16,17 +16,17 @@ A marketing website for **IVK Media**, a San Jose studio that builds websites, G
 
 | Scroll story | Physics section |
 |---|---|
-| ![Scroll story](screenshots/desktop-scroll-story.png) | ![Physics](screenshots/desktop-physics.png) |
+| ![Scroll story](desktop-scroll-story.png) | ![Physics](desktop-physics.png) |
 
 | Services | Pricing |
 |---|---|
-| ![Services](screenshots/desktop-services.png) | ![Pricing](screenshots/desktop-pricing.png) |
+| ![Services](desktop-services.png) | ![Pricing](desktop-pricing.png) |
 
 ## Mobile
 
 <p>
-  <img src="screenshots/mobile-hero.png" width="260" alt="Mobile hero">
-  <img src="screenshots/mobile-story.png" width="260" alt="Mobile scroll story">
+  <img src="mobile-hero.png" width="260" alt="Mobile hero">
+  <img src="mobile-story.png" width="260" alt="Mobile scroll story">
 </p>
 
 Fully responsive from about 360px up, with a full-screen mobile menu, a stacked scroll story and touch-friendly physics.
